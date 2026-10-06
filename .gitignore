@@ -1,0 +1,7 @@
+# VPN profiles and private credentials do not belong in the website repository.
+*.ovpn
+*.key
+*.p12
+*.pfx
+.env
+.env.*
